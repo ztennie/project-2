@@ -1,0 +1,79 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+body {
+  background-image: url("page3_1.png"), url("page3_1.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+    position: absolute;
+}
+ {
+  background-image: url("page3_1.png"), url("page3_1.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+     position: absolute;
+}
+.hover_img a { position:relative; }
+.hover_img a span { position:absolute; display:none; z-index:99; top;500%;}
+.hover_img a:hover span { display:block; }
+
+.hover {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-5%, 50%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 5px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.gif{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(70%, -75%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 5px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;  
+}
+.gif2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(5%, -155%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 5px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px; 
+    width: 75%;
+    height:auto
+}
+ .next2btn{
+  position: absolute;
+  top: 0%;
+  left: 200%;
+  transform: translate(5%, 0%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 5px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px; 
+    width: 70%;
+    height:auto
+}

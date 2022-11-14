@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+body {
+  background-image: url("page4.png"), url("page4.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+       position: absolute;
+} 
+background-image: url("page4.png"), url("page4.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+}
+.gifback {
+  position: top;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.gifback img {
+  width: 50%;
+  height: auto;
+mix-blend-mode: darken;
+    
+}
+
+}
+

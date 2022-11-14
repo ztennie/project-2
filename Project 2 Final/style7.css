@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+body {
+  background-image: url("page7.png"), url("page7.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+       position: absolute;
+}
+ {
+  background-image: url("page7.png"), url("page7.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+}
+.page7 {
+  position: top;
+  width: 50%;
+}
+.page7 img {
+  width: 50%;
+  height: auto;
+}
+.page7 .btn {
+  position: relative;
+  top: 100%;
+  left: 50%;
+  transform: translate(50%, 675%);
+  -ms-transform: translate(600%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 5px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;

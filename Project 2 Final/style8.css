@@ -1,0 +1,55 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+body {
+  background-image: url("page8.png"), url("page8.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+    position: absolute;
+}
+ {
+  background-image: url("page8.png"), url("page8.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+     position: absolute;
+}
+.star img {
+    background-image:url('stardew.gif');
+    height:200px;
+        width: auto;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:contain;
+    transform: translate(120%, -125%);
+    }
+    .star img hover{
+    background-image:url('stardew.png');
+    }
+.gamebtn {
+  position: top;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.gamebtn img {
+  width: 50%;
+  height: auto;
+}
+.gamebtn .btn {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(45%, 42%);
+  -ms-transform: translate(-50%, -100%);
+  color: white;
+  font-size: 16px;
+  padding: 5px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+

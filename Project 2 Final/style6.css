@@ -1,0 +1,68 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+body {
+  background-image: url("page6.png"), url("page6.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+    position: absolute;
+}
+ {
+  background-image: url("page6.png"), url("page6.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+     position: absolute;
+}
+.beargif {
+  position: top;
+  width: 100%;
+    height: auto;
+mix-blend-mode: multiply; 
+  width: 150%;
+  height: auto;
+mix-blend-mode: darken;  
+    position: relative;
+  position: absolute;
+width: 136px;
+height: 151px;
+left: 58px;
+top: 96px;
+     transform: translate(120%, 140%);
+}
+.breathegif {
+  position: top;
+  width: 50%;
+    height: auto;
+mix-blend-mode: normal;   
+    position: relative;
+  position: absolute;
+transform: translate(600%, -90%);
+}
+.tetrisgif {
+  position: top;
+  width: 30%;
+    height: auto;
+mix-blend-mode: darken;   
+    position: relative;
+  position: absolute;
+transform: translate(1250%, -90%);
+}
+.arrow {
+  position: top;
+  width: 50%;
+    height: auto;
+mix-blend-mode: normal;   
+    position: relative;
+  position: absolute;
+transform: translate(600%, -90%);
+}
+.arrow {
+  position: top;
+  width: 30%;
+    height: auto;   
+  position: absolute;
+transform: translate(8000%, 100%);

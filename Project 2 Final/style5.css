@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+body {
+  background-image: url("page5_1.png"), url("page5_1.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+       position: absolute;
+}
+  background-image: url("page5_1.png"), url("page5_1.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+}
+.cityleaf {
+  position: top;
+  width: 100%;
+    height: auto;
+mix-blend-mode: darken; 
+}
+.cityleaf img {
+  width: 225%;
+  height: auto;
+mix-blend-mode: darken; 
+}

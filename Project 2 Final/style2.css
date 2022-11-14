@@ -1,0 +1,122 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+body {
+  background-image: url("page2.png");
+  background-repeat: no-repeat;
+background-size: 1704px 1090px;
+     position: absolute;
+}
+.container {
+  position: top;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container img {
+  width: 40%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: relative;
+  top: 100%;
+  left: 50%;
+  transform: translate(-84%, 308%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 5px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container2 {
+  position: top;
+  width: 50%;
+}
+.container2 img {
+  width: 40%;
+  height: auto;
+}
+.container2 .btn {
+  position: relative;
+  top: 100%;
+  left: 50%;
+  transform: translate(20%, 190%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 5px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.container3 {
+  position: top;
+  width: 50%;
+}
+.container3 img {
+  width: 40%;
+  height: auto;
+}
+.container3 .btn {
+  position: relative;
+  top: 100%;
+  left: 50%;
+  transform: translate(125%, 45%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 5px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.container4 {
+  position: top;
+  width: 50%;
+}
+.container4 img {
+  width: 40%;
+  height: auto;
+}
+.container4 .btn {
+  position: relative;
+  top: 100%;
+  left: 50%;
+  transform: translate(230%, -100%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 5px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+}
+.container5
+  position: top;
+  width: 50%;
+}
+.container5 img {
+  width: 40%;
+  height: auto;
+}
+.container5 .btn {
+  position: relative;
+  top: 100%;
+  left: 50%;
+  transform: translate(325%, 175%);
+  -ms-transform: translate(-500%, -500%);
+  padding: 5px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
